@@ -21,8 +21,7 @@ social: true  # includes social icons at the bottom of the page
 <br>
 ### About me <br>
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm currently a research intern at [Lab-V2](https://labs.engineering.asu.edu/labv2/) run by Dr. [Paulo Shakarian](https://labs.engineering.asu.edu/labv2/about-paulo-shakarian/) at Arizona State University. Previously I interned in Dr. [Min Xu's](https://cbd.cmu.edu/people/xu.html) Lab at Carnegie Mellon University. I was very fortunate to be one of the early members of [Telekinesis](https://telekinesis.ai/), a robotics and AI startup based at TU Darmstadt. I graduated from the Sri Aurobindo International Centre of Education with a B.Sc. in Computer Science, Math and Physics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+### Research Interests
+I'm passionate about designing safe, robust and reliable Reinforcement Learning (RL) algorithms to make intelligent robots more widespread. To this end I'm excited by the possibility that combining the fields of symbolic logic and RL can create explainable systems that are more powerful than the sum of their parts.
