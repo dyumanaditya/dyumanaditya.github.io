@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: "* Denotes equal contribution"
 years: [2023]
 nav: true
