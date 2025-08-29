@@ -1,20 +1,19 @@
 ---
 ---
 
-@inproceedings{aditya_pyreason_2023,
-  abbr={AAAI-MAKE},
-  author={Aditya*, Dyuman and Mukerji*, Kaustuv and Balasubramanian, Srikar and Chaudhary, Abhiraj and Shakarian, Paulo},
-  title={{PyReason}: Software for Open World Temporal Logic},
-  abstract={The growing popularity of neuro symbolic reasoning has led to the adoption of various forms of differentiable (i.e., fuzzy) first order logic.  We introduce PyReason, a software framework based on generalized annotated logic that both captures the current cohort of differentiable logics and temporal extensions to support inference over finite periods of time with capabilities for open world reasoning.  Further, PyReason is implemented to directly support reasoning over graphical structures (e.g., knowledge graphs, social networks, biological networks, etc.), produces fully explainable traces of inference, and includes various practical features such as type checking and a memory-efficient implementation.  This paper reviews various extensions of generalized annotated logic integrated into our implementation, our modern, efficient Python-based implementation that conducts exact yet scalable deductive inference, and a suite of experiments. PyReason is available at: github.com/lab-v2/pyreason.},
-  year={2023},
-  code={https://github.com/lab-v2/pyreason},
+@inproceedings{bavikadi2024geospatialtrajectorygenerationefficient,
+  abbr={ICLP},
+  author={Divyagna Bavikadi and Dyuman Aditya and Devendra Parkar and Paulo Shakarian and Graham Mueller and Chad Parvis and Gerardo I. Simari},
+  title={Geospatial Trajectory Generation via Efficient Abduction: Deployment for Independent Testing},
+  abstract={The ability to generate artificial human movement patterns while meeting location and time constraints is an important problem in the security community, particularly as it enables the study of the analog problem of detecting such patterns while maintaining privacy. We frame this problem as an instance of abduction guided by a novel parsimony function represented as an aggregate truth value over an annotated logic program. This approach has the added benefit of affording explainability to an analyst user. By showing that any subset of such a program can provide a lower bound on this parsimony requirement, we are able to abduce movement trajectories efficiently through an informed (i.e., A*) search. We describe how our implementation was enhanced with the application of multiple techniques in order to be scaled and integrated with a cloud-based software stack that included bottom-up rule learning, geolocated knowledge graph retrieval/management, and interfaces with government systems for independently conducted government-run tests for which we provide results. We also report on our own experiments showing that we not only provide exact results but also scale to very large scenarios and provide realistic agent trajectories that can go undetected by machine learning anomaly detectors.},
+  year={2024},
   bibtex_show={true},
-  preview={pyreason_logo.jpg},
+  preview={traj_gen.png},
   selected={true},
-  booktitle={{AAAI} Spring Symposium},
-  website={https://neurosymbolic.asu.edu/pyreason/},
-  arxiv={2302.13482},
+  booktitle={ICLP},
+  arxiv={2407.06447},
 }
+
 
 @inproceedings{mukherji2023scalable,
   abbr={IEEE-ICSC},
@@ -31,15 +30,19 @@
   arxiv={2310.06835},
 }
 
-@inproceedings{bavikadi2024geospatialtrajectorygenerationefficient,
-  abbr={ICLP},
-  author={Divyagna Bavikadi and Dyuman Aditya and Devendra Parkar and Paulo Shakarian and Graham Mueller and Chad Parvis and Gerardo I. Simari},
-  title={Geospatial Trajectory Generation via Efficient Abduction: Deployment for Independent Testing},
-  abstract={The ability to generate artificial human movement patterns while meeting location and time constraints is an important problem in the security community, particularly as it enables the study of the analog problem of detecting such patterns while maintaining privacy. We frame this problem as an instance of abduction guided by a novel parsimony function represented as an aggregate truth value over an annotated logic program. This approach has the added benefit of affording explainability to an analyst user. By showing that any subset of such a program can provide a lower bound on this parsimony requirement, we are able to abduce movement trajectories efficiently through an informed (i.e., A*) search. We describe how our implementation was enhanced with the application of multiple techniques in order to be scaled and integrated with a cloud-based software stack that included bottom-up rule learning, geolocated knowledge graph retrieval/management, and interfaces with government systems for independently conducted government-run tests for which we provide results. We also report on our own experiments showing that we not only provide exact results but also scale to very large scenarios and provide realistic agent trajectories that can go undetected by machine learning anomaly detectors.},
-  year={2024},
+@inproceedings{aditya_pyreason_2023,
+  abbr={AAAI-MAKE},
+  author={Aditya*, Dyuman and Mukerji*, Kaustuv and Balasubramanian, Srikar and Chaudhary, Abhiraj and Shakarian, Paulo},
+  title={{PyReason}: Software for Open World Temporal Logic},
+  abstract={The growing popularity of neuro symbolic reasoning has led to the adoption of various forms of differentiable (i.e., fuzzy) first order logic.  We introduce PyReason, a software framework based on generalized annotated logic that both captures the current cohort of differentiable logics and temporal extensions to support inference over finite periods of time with capabilities for open world reasoning.  Further, PyReason is implemented to directly support reasoning over graphical structures (e.g., knowledge graphs, social networks, biological networks, etc.), produces fully explainable traces of inference, and includes various practical features such as type checking and a memory-efficient implementation.  This paper reviews various extensions of generalized annotated logic integrated into our implementation, our modern, efficient Python-based implementation that conducts exact yet scalable deductive inference, and a suite of experiments. PyReason is available at: github.com/lab-v2/pyreason.},
+  year={2023},
+  code={https://github.com/lab-v2/pyreason},
   bibtex_show={true},
-  preview={traj_gen.png},
+  preview={pyreason_logo.jpg},
   selected={true},
-  booktitle={ICLP},
-  arxiv={2407.06447},
+  booktitle={{AAAI} Spring Symposium},
+  website={https://neurosymbolic.asu.edu/pyreason/},
+  arxiv={2302.13482},
 }
+
+
