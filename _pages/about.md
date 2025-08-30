@@ -27,5 +27,3 @@ I'm a final year Masters student at Centrale Nantes studying Advanced Robotics. 
 My research is based on the intersection of robotics and robot learning - advancing embodied intelligence in complex dynamic tasks and pushing the boundaries of what robots can achieve in real-world scenarios. I am particulary interested in bridging the gap between model-based and model-free learning through differentiable simulation in contact rich, long horizon robotic tasks.
 
 On the side I work on neurosymbolic AI - where I try combine the fields of logic and learning to produce explainable systems, more powerful than the sum of their parts.
-
-Recently I have been working with robust localization and navigation of legged.
