@@ -6,7 +6,8 @@ subtitle: Robotics Researcher
 
 profile:
   align: right
-  image: prof_pic_square.jpg
+  # image: prof_pic_square.jpg
+  image: prof_pic_square_rsf.png
   image_circular: true # crops the image to make it circular
   address: 
     # >
