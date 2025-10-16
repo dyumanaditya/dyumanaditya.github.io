@@ -20,11 +20,7 @@
       {{ content }}
     </div>
 
-    {%- if site.clustrmaps_widget and site.clustrmaps_widget != '' -%}
-    <div class="container mt-3 mb-3">
-      {{ site.clustrmaps_widget | raw }}
-    </div>
-    {%- endif -%}
+    <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=BKLPODrXjQfPZLeZBB0OkYJibDPkigEOnpnfUM3rwW8&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
 
     <!-- Footer -->
     {%- include footer.html %}
