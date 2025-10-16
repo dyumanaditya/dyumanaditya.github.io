@@ -152,25 +152,21 @@ footer.sticky-bottom {
 
 }
 
-.blog-metadata{
-  border-bottom: 1px solid var(--global-divider-color);
-  font-size: small;
-
-  .tag-list {
-    border-bottom: none;
-    padding-top: 1rem;
-    padding-bottom: 0rem;
-
-    ul {
-      p, li {
-        padding: 0rem 0rem;
-      }
-    }
-
-    a{
-      color: var(--global-text-color-light);
-    }
+// ClustrMaps Widget
+#clustrmaps-widget {
+  text-align: center;
+  
+  iframe, object, embed {
+    max-width: 100% !important;
+    height: auto !important;
   }
-
+  
+  // Ensure the widget container doesn't interfere with interactions
+  pointer-events: auto;
+  
+  // Center the widget
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 

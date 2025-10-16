@@ -20,11 +20,17 @@
       {{ content }}
     </div>
 
-    <!-- {%- if site.clustrmaps_widget and site.clustrmaps_widget != '' -%}
+    {%- if site.clustrmaps_widget and site.clustrmaps_widget != '' -%}
     <div class="container mt-3 mb-3">
-      {{ site.clustrmaps_widget | raw }}
+      <div class="row justify-content-center">
+        <div class="col-auto">
+          <div id="clustrmaps-widget" style="max-width: 300px; max-height: 200px; overflow: hidden;">
+            {{ site.clustrmaps_widget | raw }}
+          </div>
+        </div>
+      </div>
     </div>
-    {%- endif -%} -->
+    {%- endif -%}
 
     <!-- Footer -->
     {%- include footer.html %}
