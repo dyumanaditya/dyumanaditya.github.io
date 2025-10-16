@@ -157,8 +157,9 @@ footer.sticky-bottom {
   text-align: center;
   
   iframe, object, embed {
-    max-width: 100% !important;
-    height: auto !important;
+    width: 100% !important;
+    height: 100% !important;
+    border: none;
   }
   
   // Ensure the widget container doesn't interfere with interactions
