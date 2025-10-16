@@ -20,6 +20,12 @@
       {{ content }}
     </div>
 
+    {%- if site.clustrmaps_widget and site.clustrmaps_widget != '' -%}
+    <div class="container mt-3 mb-3">
+      {{ site.clustrmaps_widget | raw }}
+    </div>
+    {%- endif -%}
+
     <!-- Footer -->
     {%- include footer.html %}
 
