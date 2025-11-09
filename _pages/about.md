@@ -26,7 +26,7 @@ social: true  # includes social icons at the bottom of the page
 
 I rencently graduated from Centrale Nantes with a Masters in Advanced Robotics. I'm currently a visiting student researcher at ETH Zurich in the [CRL Lab](https://crl.ethz.ch/index.html). I also work as a research assistant at the [IAS Lab](https://www.ias.informatik.tu-darmstadt.de/Main/LandingPage?from=Main.HomePage) run by Prof. [Jan Peters](https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters) at TU Darmstadt. 
 
-Previously I've had the opportunity to work on Neurosymbolic AI with [Paulo Shakarian](https://ecs.syracuse.edu/faculty-staff/paulo-shakarian) at the [Leibniz Lab](https://leibniz.syracuse.edu/) and [ARLIS](https://www.arlis.umd.edu/). 
+Previously I've had the opportunity to work on Neurosymbolic AI with Prof. [Paulo Shakarian](https://ecs.syracuse.edu/faculty-staff/paulo-shakarian) at the [Leibniz Lab](https://leibniz.syracuse.edu/) and [ARLIS](https://www.arlis.umd.edu/). 
 
 I was very fortunate to be one of the early members of [Telekinesis](https://telekinesis.ai/), a startup aimed at providing a no-code robot programming solution, based out of TU Darmstadt. I graduated from the Sri Aurobindo International Centre of Education with a B.Sc. in Computer Science, Math and Physics.
 
