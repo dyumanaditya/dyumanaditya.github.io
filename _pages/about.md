@@ -30,6 +30,6 @@ Previously I've had the opportunity to work on Neurosymbolic AI with Prof. [Paul
 
 
 ### Research
-My research is focused enabling robots to continuously adapt to changes in their environment. I am particularly interested in developing methods that allow robots to safely explore, efficiently learn the dynamics of their surroundings, and adapt their behavior online without requiring extensive retraining. To this end, I'm exploring how physics-informed world models can enable robots to predict the consequences of their actions, reason about changing dynamics, and adapt safely and efficiently from limited real-world experience.
+My research focuses on enabling robots to continuously adapt to changes in their environment. I am particularly interested in developing methods that allow robots to safely explore, efficiently learn the dynamics of their surroundings, and adapt their behavior online without requiring extensive retraining. To this end, I'm exploring how physics-informed world models can enable robots to predict the consequences of their actions, reason about changing dynamics, and adapt safely and efficiently from limited real-world experience.
 
 Much of my past reseach has been on neurosymbolic AI - where I worked on combining the fields of logic and learning to produce explainable systems, more powerful than the sum of their parts.
