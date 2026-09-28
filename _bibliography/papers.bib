@@ -1,6 +1,21 @@
 ---
 ---
 
+@article{adityaBCG2026,
+  abbr={Preprint},
+  author={Dyuman Aditya and Jin Cheng and Clemens Schwarke and Quan Nguyen and Gaurav Sukhatme and Stelian Coros and Gabriele Fadini},
+  title={Bundled Contact Gradients: Stabilizing Differentiable Simulation for Deployable Dynamic Tasks},
+  abstract={Differentiable simulation provides analytic gradients of robot dynamics, enabling fast and sample-efficient first-order policy optimization. However, obtaining smooth and informative gradients through rigid-body contact typically requires softened contact models, often at the expense of physical fidelity and thereby limiting learned policies largely to simulation. This trade-off becomes particularly consequential for dynamic humanoid motions, where accurate contact dynamics are critical for transferring policies to the real world. Increasing contact stiffness in rigid-body simulation improves the fidelity of interactions, but also makes the dynamics increasingly sensitive to small state perturbations, producing high-variance gradients that can destabilize first-order policy learning. To address this, we propose Bundled Contact Gradients (BCG), a contact-local randomized smoothing framework for differentiable policy learning. When stiff contact is detected, our method evaluates a local bundle of randomized perturbation rollouts around the stiff contact configuration and aggregates their gradient signal thereby reducing gradient variance. We demonstrate the effectiveness of our method by successfully training and transferring dynamic motions zero-shot onto a real-world Unitree G1 humanoid platform. Videos and supplementary information can be found at https://bundledcontactgradients.github.io/},
+  year={2026},
+  bibtex_show={true},
+  preview={bundled-contact-gradients.gif},
+  selected={true},
+  journal={arXiv preprint arXiv:2609.30951},
+  arxiv={2609.30951},
+  pdf={https://arxiv.org/pdf/2609.30951},
+  website={https://bundledcontactgradients.github.io/},
+}
+
 @inproceedings{adityaRobustQuad2025,
   abbr={ECMR},
   author={Dyuman Aditya and Junning Huang and Nico Bohlinger and Piotr Kicki and Krzysztof Walas and Jan Peters and Matteo Luperto and Davide Tateo},
