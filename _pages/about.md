@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 <br>
 ### About me <br>
 
-I'm a first year PhD Student at the University of Southern California advised by Profs. Gaurav Sukhatme & Quan Nguyen at the [Robotics Embedded Systems Lab](https://uscresl.org/) and the [Dynamic Robotics & Control Lab](https://sites.usc.edu/quann/)
+I'm a first year PhD Student at the University of Southern California advised by Profs. [Gaurav Sukhatme](https://viterbi.usc.edu/directory/faculty/Sukhatme/Gaurav) & [Quan Nguyen](https://viterbi.usc.edu/directory/faculty/Nguyen/Quan) at the [Robotics Embedded Systems Lab](https://uscresl.org/) and the [Dynamic Robotics & Control Lab](https://sites.usc.edu/quann/)
 
 In the past I have worked as a visiting student researcher at ETH Zurich in the [CRL Lab](https://crl.ethz.ch/index.html) and as a research assistant at the [IAS Lab](https://www.ias.informatik.tu-darmstadt.de/Main/LandingPage?from=Main.HomePage) run by Prof. [Jan Peters](https://www.ias.informatik.tu-darmstadt.de/Team/JanPeters) at TU Darmstadt. 
 
